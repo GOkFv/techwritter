@@ -35,7 +35,7 @@
 | **Priority**       | High (если блокирует работу) |  
 | **Labels**         | "docs", "api"             |  
 | **Component**      | "Documentation"           |  
-| **Due Date**       | 2024-12-01                |  
+| **Due Date**       | 2025-08-14                |  
 
 ---
 
